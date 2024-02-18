@@ -1,4 +1,4 @@
-# React Material Admin — Material-UI Dashboard Template
+# Kiumee Admin — 키우미 관리자 페이지
 
 Built with [React](https://facebook.github.io/react/), [Material-UI](https://material-ui.com), [React Router](https://reacttraining.com/react-router/).
 **No jQuery and Bootstrap!**
