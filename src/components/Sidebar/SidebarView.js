@@ -36,6 +36,8 @@ const structure = [
       { label: 'Maps', link: '/app/ui/maps' },
     ],
   },
+  { id: 15, label: 'storeManagement', link: '/app/storeManagement', icon: <TableIcon /> },
+  { id: 16, label: 'menuManager', link: '/app/menuManager', icon: <TableIcon /> },
   { id: 5, type: 'divider' },
   { id: 6, type: 'title', label: 'HELP' },
   { id: 7, label: 'Library', link: 'https://flatlogic.com/templates', icon: <LibraryIcon /> },

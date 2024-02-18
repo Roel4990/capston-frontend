@@ -44,6 +44,8 @@ const structure = [
     link: "/app/notifications",
     icon: <NotificationsIcon />,
   },
+  { id: 15, label: 'storeManagement', link: '/app/storeManagement', icon: <TableIcon /> },
+  { id: 16, label: 'menuManagement', link: '/app/menuManagement', icon: <TableIcon /> },
   {
     id: 4,
     label: "UI Elements",
